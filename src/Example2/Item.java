@@ -71,14 +71,3 @@ public class Item {
 
 
 }
-
-
-
-
-
-//              "itemName": "Hunting Hat",
-//              "durability": "70",
-//              "difficulty": "63",
-//              "maxQuality": "866",
-//              "craftsmanship": "78",
-//              "level": "16"
