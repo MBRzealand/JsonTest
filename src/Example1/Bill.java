@@ -1,3 +1,5 @@
+package Example1;
+
 public class Bill {
 
     private int amount;

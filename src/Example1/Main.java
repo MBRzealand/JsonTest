@@ -1,3 +1,5 @@
+package Example1;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -9,7 +11,7 @@ public class Main {
 
         ObjectMapper objectMapper = new ObjectMapper();
 
-        TestObject testObject = objectMapper.readValue(jsonStr,TestObject.class);
+        TestObject testObject = objectMapper.readValue(jsonStr, TestObject.class);
 
 
 
