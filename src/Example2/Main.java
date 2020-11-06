@@ -39,7 +39,7 @@ public class Main{
                     System.out.println(fetchedItem.printInfo());
 
                 } else {
-                    System.out.println("Item Doesn't exist");
+                    System.out.println("Item Doesn't exist\n");
                 }
 
             }

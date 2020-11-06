@@ -10,8 +10,6 @@ public class Item {
     private int level;
 
 
-
-
     public String getItemName() {
         return ItemName;
     }
